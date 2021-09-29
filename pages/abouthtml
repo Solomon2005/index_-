@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>БЛИН</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>БЛИН</h1>
+        <p>Тонкая лепёшка из жидкого теста, испечённая на сковороде.</p>
+        <ul>
+            <a href="../index.html"> ДИЧЬ</a>
+        </ul>
+
+    </body>
+</html>
