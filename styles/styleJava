@@ -1,0 +1,10 @@
+h1{
+    color:rgb(148, 94, 172);
+    font-style: italic;
+    font-family: bold;
+    font-family: fantasy;
+}
+body {
+    background-color: dimgrey;
+    color: white;
+}
