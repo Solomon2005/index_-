@@ -1,0 +1,28 @@
+h.zagl1{
+    color:#DC3D24;
+    font-style: italic;
+    font-family: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.zagl2{
+    color:#DC3D24;
+    font-style: italic;
+    font-family: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    background-color: #232B2B;
+    color: #FFFFFF;
+}
+.text{
+    color: #FFFFFF;
+    font-style: italic;
+    font-family: bold;
+    font-family: cursive;
+}
+.table1{
+    border-color: #E3AE57;
+}
+.salki{
+    color:#DC3D24;
+}
